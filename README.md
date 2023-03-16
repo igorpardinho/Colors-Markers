@@ -1,2 +1,2 @@
 # Colors-Markers
-<h3>Projeto para praticar CSS simulando marcadores coloridos</h3>.
+<h3>Projeto para praticar CSS simulando marcadores coloridos.</h3>
